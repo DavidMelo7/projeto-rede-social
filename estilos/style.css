@@ -20,7 +20,7 @@ main {
 }
 
 body {
-    background: url(imagens/wallpaper004.jpg) center center / cover no-repeat fixed;
+    background: url(../imagens/wallpaper004.jpg) center center / cover no-repeat fixed;
 }
 
 #telefone {
@@ -31,7 +31,7 @@ body {
     height: 627px;
     width: 311px;
 
-    background: url(imagens/frame-iphone.png)center center / cover no-repeat fixed;
+    background: url(../imagens/frame-iphone.png)center center / cover no-repeat fixed;
 }
 
 #home {
@@ -54,5 +54,5 @@ section img {
 section img:hover {
     border: 2px solid rgba(255, 255, 255, 0.695);
     box-shadow: 2px 2px 2px black;
-    transform: translate(2px, 2px);
+    transform: translate(2px, 2px);  
 }
